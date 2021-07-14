@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Akhlak-Hossain-Jim/room-landing-page)
-- Live Site URL: [Github Page](https://ahj-frontendmentorio-iii.netlify.app)
+- Live Site URL: [Netlify Page](https://ahj-frontendmentorio-iii.netlify.app)
 
 ## My process
 
